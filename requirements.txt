@@ -3,4 +3,4 @@ joblib
 datetime
 pandas
 openpyxl
-sklearn
+scikit-learn
