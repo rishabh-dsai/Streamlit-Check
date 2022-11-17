@@ -3,3 +3,4 @@ joblib
 datetime
 pandas
 openpyxl
+sklearn
