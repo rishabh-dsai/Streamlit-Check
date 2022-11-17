@@ -9,7 +9,6 @@ Created on Thu Oct 20 19:32:17 2022
 
 # Importing the libraries
 import numpy as np
-import matplotlib.pyplot as plt
 import pandas as pd
 import joblib
 
